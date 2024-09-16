@@ -76,7 +76,7 @@ INSERT INTO roles (nombre_rol) VALUES
 ('Oro'),
 ('Platino');
 ``` 
-## PASO 3 - Crea la columna `id_rol` u la clave foránea
+## PASO 3 - Crea la columna `id_rol` o la clave foránea
 
 Añade la columna `id_rol` a usuarios. Rellena cada rol con números asociados a la tabla de `roles` 
 
